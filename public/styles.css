@@ -1,0 +1,8 @@
+#nodechat {
+    padding: 5rem;
+    border: 3px solid rgb(59, 132, 201);
+}
+#chat-window {
+    height: 300px;
+    border: 1px solid rgb(59, 132, 201);
+}
